@@ -1,4 +1,4 @@
-# Pirate-Mario (Still in construction)
+# Pirate-Mario (Still under construction)
 
 A clone super mario overworld game with camera, collisions, particle effects
 
